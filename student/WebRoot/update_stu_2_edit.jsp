@@ -16,6 +16,7 @@
 			Class.forName(driverName);
 			Connection conn = DriverManager.getConnection(url);
 			
+			
 			//（2）形成带参数的修改SQL语句
 			String sql = "update students_info set weight=? where name=?";
 			//不带参数的修改SQL语句
@@ -31,8 +32,8 @@
 			//（5）调用PreparedStatement对象中的executeUpdate()方法
 			int n = pstmt.executeUpdate(sql);
 			//（6）根据executeUpdate()方法的返回值，判断执行结果
-			if(n==1) {%> 数据修改操作成功！<br><%}
-			else {%> 数据修改操作失败！<br><%}
+			if(n==1) {%> 数据插入修改操作成功！<br><%}
+			else {%> 数据插入修改失败！<br><%}
 			
 			//（7）关闭所有资源
 			if(pstmt != null) pstmt.close();
