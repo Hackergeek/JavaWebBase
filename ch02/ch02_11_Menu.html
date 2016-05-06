@@ -1,0 +1,47 @@
+<html>
+	<head>
+		<title>下拉菜单示例</title>
+		<script language="javascript">
+				//当鼠标移动到菜单选项的时候显示对应的DIV
+			function show(menu) {
+				document.getElementById(menu).style.visibility="visible";
+			}
+			//当鼠标移出的时候隐藏所有的DIV
+			function hide() {
+				document.getElementById("menu1").style.visibility="hidden";
+				document.getElementById("menu2").style.visibility="hidden";
+				document.getElementById("menu3").style.visibility="hidden";
+			}
+		</script>
+		<script language="javascript">
+			
+		</script>
+	</head>
+	<body>
+	<table>
+		<tr bgcolor="#9999FF" align="center">
+			<td width="120" onmousemove="show('menu1')" onmouseout="hide()">系列课程</td>
+			<td width="120" onMouseMove="show('menu2')" onMouseOut="hide()">教学课件</td>
+			<td width="120" onMouseMove="show('menu3')" onMouseOut="hide()">课程大纲</td>
+		</tr>
+	</table>
+	<div id="menu1" onMouseMove="show('menu1')" onMouseOut="hide()"
+	style="background:#9999FF;position:absolute;left:12;top:38;width:120;visibility:hidden">
+		<span>c++程序设计</span><br/>
+		<span>java程序设计</span><br/>
+		<span>c#程序设计</span><br/>
+	</div>
+	<div id="menu2" onMouseMove="show('menu2')" onMouseOut="hide()"
+	style="background:#9999FF; position:absolute; left:137; top:38; width:120; visibility:hidden">
+		<span>c++课件</span><br/>
+		<span>java课件</span><br/>
+		<span>c#课件</span><br/>
+	</div>
+	<div id="menu3" onmousemove="show('menu3')" onmouseout="hide()" 
+	style="background:#9999FF;position:absolute;left:260;top:38;width:120;visibility:hidden">
+		<span>c++教学大纲</span><br/>
+		<span>java教学大纲</span><br/>
+		<span>c#教学大纲</span><br/>
+	</div>
+	</body>
+</html>

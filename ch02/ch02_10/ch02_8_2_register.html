@@ -1,0 +1,58 @@
+<html>
+	<head>
+		<title>注册页面</title>
+		<style type="text/css">@import url(ch02_4_Css.css);</style>
+		<script language="javascript" src="ch02_10_JavaScript.js"></script>
+	</head>
+	<body>
+	<form action="">
+	<table border="0" align="center" widht="600">
+		<tr><td colspan="3" align="center" height="40" id="title">填写注册信息</td></tr>
+		<tr>
+			<td id="t">用户名：*</td>
+			<td><input type="text" name="userName"/></td>
+			<td id="i">用户名由字母开头，后跟字母、数字或下划线！</td>
+		</tr>
+		<tr>
+			<td id="t">密码：*</td>
+			<td><input type="password" name="userPwd"/></td>
+			<td id="i">设置登录密码，至少6位！</td>
+		</tr>
+		<tr>
+			<td id="t">确认密码：*</td>
+			<td><input type="password" name="userPwd1"/></td>
+			<td id="i">请再输入一次你的密码！</td>
+		</tr>
+		<tr>
+			<td id="t">性别：*</td>
+			<td>
+				<input type="radio" name="userSex" value="男" checked/>男
+				<input type="radio" name="userSex" value="女"/>女
+			</td>
+			<td id="i">请选择你的性别！</td>
+		</tr>
+		<tr>
+			<td id="t">邮箱地址：*</td>
+			<td><input type="text" name="userEmail"/></td>
+			<td id="i">请填写您的常用邮箱，可以用此邮箱找回密码！</td>
+		</tr>
+		<tr>
+			<td id="t" valign="top">基本情况：*</td>
+			<td colspan="2"><textarea name="userBasicInfo" rows="5" cols="50"></textarea></td>
+		</tr>
+		<tr>
+			<td colspan="3" align="center" height="40">
+				<input type="checkbox" name="accept" value="yes"/>
+				我已经仔细阅读并同意接受用户使用协议
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" align="center" height="40">
+				<input type="Button" value="确认" onclick="validate()"/>&nbsp
+				<input type="reset" value="取消"/>
+			</td>
+		</tr>
+	</table>
+	</form>
+	</body>
+</html>

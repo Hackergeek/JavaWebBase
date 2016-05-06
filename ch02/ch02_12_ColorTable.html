@@ -1,0 +1,27 @@
+<html>
+	<head>
+		<title>变色表格示例</title>
+		<script language="javascript">
+			function chageColor(row) {
+				document.getElementById(row).style.backgroundColor="#CCCCFF";
+			}
+			function resetColor(row) {
+				document.getElementById(row).style.backgroundColor="";
+			}
+		</script>
+	</head>
+	<body>
+	<table width="200" border="1" cellspacing="1" cellpadding="1" align="center">
+		<tr><th>学校</th><th>专业</th><th>人数</th></tr>
+		<tr align="center" id="row1" onmouseover="chageColor('row1')" onmouseout="resetColor('row1')">
+			<th>北大</th><th>法律</th><th>2000</th>
+		</tr>
+		<tr align="center" id="row2" onmouseover="chageColor('row2')" onmouseout="resetColor('row2')">
+			<th>清华</th><th>计算机</th><th>5000</th>
+		</tr>
+		<tr align="center" id="row3" onmouseover="chageColor('row3')" onmouseout="resetColor('row3')">
+			<th>人大</th><th>经济</th><th>6000</th>
+		</tr>
+	</table>
+	</body>
+</html>
