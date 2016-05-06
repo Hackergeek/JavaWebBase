@@ -13,6 +13,12 @@
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_12_ColorTable.html">例2-12 基于HTML+JavaScript+CSS的开发案例——JavaScript+CSS+DIV实现表格变色</a>
 
 ##第3章JSP技术
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_1_first.jsp">例3-1 简单的JSP程序</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_2_javalet.jsp">例3-2 以直角三角形的形式显示数字并根据随机产生的数据的不同，显示不同的问候</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_3_page.jsp">例3-3 page指令import属性示例</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_4">例3-4 include指令示例</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_1_first.jsp">例3-5 简单的JSP程序</a>
+
 
 ##第4章JDBC数据库访问技术
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
