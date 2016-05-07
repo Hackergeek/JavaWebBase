@@ -27,10 +27,10 @@
 ###12、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_12_time.jsp">例3-12 页面自动刷新时间</a>
 ###13、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_13_session.jsp">例3-13 利用session对象获取会话信息并显示</a>
 ###以下内容暂未完成
-###14、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-14 统计网站访问人数</a>
-###15、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-15 利用out对象输出页面信息</a>
-###16、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-16 网上答题及其自动评测系统</a>
-###17、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-17 简单的购物车应用案例</a>
+###14、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_14_application.jsp">例3-14 统计网站访问人数</a>
+###15、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_15_out">例3-15 利用out对象输出页面信息</a>
+###16、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_16">例3-16 网上答题及其自动评测系统</a>
+###17、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_17">例3-17 简单的购物车应用案例</a>
 
 
 ##第4章JDBC数据库访问技术
@@ -45,4 +45,21 @@
 
 ##第8章EL、JSTL和Ajax技术
 
-##附录MySql的安装与配置
+##实验
+###1、
+###<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_7/">例2-7 框架设计案例——多媒体播放系统设计</a>
+###2、
+###<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_11_Menu.html">例2-11 基于HTML+JavaScript+CSS的开发案例——JavaScript+CSS+DIV实现下拉菜单</a>
+###<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_12_ColorTable.html">例2-12 基于HTML+JavaScript+CSS的开发案例——JavaScript+CSS+DIV实现表格变色</a>
+###3、
+###<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
+###<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_8.html">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
+###4、
+
+###5、
+
+##习题
+###
+##附录
+###1、MySql的安装与配置
+###2、
