@@ -17,7 +17,20 @@
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_2_javalet.jsp">例3-2 以直角三角形的形式显示数字并根据随机产生的数据的不同，显示不同的问候</a>
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_3_page.jsp">例3-3 page指令import属性示例</a>
 ###4、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_4">例3-4 include指令示例</a>
-###5、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_1_first.jsp">例3-5 简单的JSP程序</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_5">例3-5 利用include动作实现参数传递</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-6 利用表单传递参数</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_7">例3-7 追加在网址后实现参数传递</a>
+###8、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_8">例3-8 采用getParameterNames()方法获得参数并显示参数值</a>
+###9、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_9">例3-9 计算任意两个实数的和</a>
+###10、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_10">例3-10 使用request对象获取客户端的有关信息</a>
+###11、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_11">例3-11 用户登录验证</a>
+###12、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_12_time.jsp">例3-12 页面自动刷新时间</a>
+###13、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_13_session.jsp">例3-13 利用session对象获取会话信息并显示</a>
+###以下内容暂未完成
+###14、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-14 统计网站访问人数</a>
+###15、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-15 利用out对象输出页面信息</a>
+###16、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-16 网上答题及其自动评测系统</a>
+###17、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_6">例3-17 简单的购物车应用案例</a>
 
 
 ##第4章JDBC数据库访问技术
