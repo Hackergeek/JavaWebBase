@@ -39,12 +39,11 @@
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/sum/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/counter/">例5-3 网页计数器JavaBean的设计与使用</a>
 ###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例5-4 数据库访问JavaBean的设计</a>
-#以下内容暂未完成
 ##第6章Servlet技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-1 基于JSP+Servlet的用户登录验证</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-2 基于JSP+Servlet+JavaBean实现复数运算</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-3 利用Cookie实现自动登录</a>
-
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/yhdlyz/">例6-1 基于JSP+Servlet的用户登录验证</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/complex/">例6-2 基于JSP+Servlet+JavaBean实现复数运算</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/autoLogin/">例6-3 利用Cookie实现自动登录</a>
+#以下内容暂未完成
 ##第7章Java Web常用开发模式与案例
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-1 JSP页面开发模式案例——求和运算</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-2 JSP页面开发模式案例——求和运算</a>
