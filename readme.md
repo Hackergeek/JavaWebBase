@@ -31,11 +31,12 @@
 ###16、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_16">例3-16 网上答题及其自动评测系统</a>
 ###17、<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch03/ch03_17">例3-17 简单的购物车应用案例</a>
 ##第4章JDBC数据库访问技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/student">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/readme.md">使用说明</a>
 ###以下内容暂未完成
 ##第5章JavaBean技术
-
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/">例5-3 网页计数器JavaBean的设计与使用</a>
 ##第6章Servlet技术
 
 ##第7章Java Web常用开发模式与案例
