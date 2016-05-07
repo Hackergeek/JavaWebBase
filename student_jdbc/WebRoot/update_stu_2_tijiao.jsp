@@ -1,4 +1,5 @@
 <%@page language="java" import="java.sql.*" pageEncoding="UTF-8" %>
+<%request.setCharacterEncoding("UTF-8"); %>
 <html>
 	<head><title>修改记录的条件提交页面</title></head>
 	<body>

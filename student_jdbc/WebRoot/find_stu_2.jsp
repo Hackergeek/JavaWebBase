@@ -1,4 +1,5 @@
 <%@page contentType="text/html; charset=UTF-8" import="java.sql.*" %>
+<%request.setCharacterEncoding("UTF-8"); %>
 <html>
 	<head><title>显示体重值在60至80之间的学生</title></head>
 	<body>
@@ -7,7 +8,7 @@
 			String driverName = "com.mysql.jdbc.Driver";
 			String userName = "root";
 			String userPwd = "root";
-			String dbName = "student";
+			String dbName = "students";
 			String url1 = "jdbc:mysql://localhost:3306/" + dbName;
 			String url2 = "?user=" + userName + "&password=" + userPwd;
 			String url3 = "&useUnicode=true&characterEncoding=UTF-8";
@@ -15,7 +16,7 @@
 			Class.forName(driverName);
 			Connection conn = DriverManager.getConnection(url);
 			//带参数的SQL语句
-			String sql = "select * from students_info where weight>=? and weight<=?";
+			String sql = "select * from stu_info where weight>=? and weight<=?";
 			//不带参数的SQL语句
 			//String sql = "select * from students_info where weight>=60 and weight<=80";
 			PreparedStatement pstmt = conn.prepareStatement(sql);

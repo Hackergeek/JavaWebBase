@@ -7,7 +7,7 @@
 			String driverName = "com.mysql.jdbc.Driver";
 			String userName = "root";
 			String userPwd = "root";
-			String dbName = "student";
+			String dbName = "students";
 			String url1 = "jdbc:mysql://localhost:3306/" + dbName;
 			String url2 = "?user=" + userName + "&password=" + userPwd;
 			String url3 = "&useUnicode=true&characterEncoding=UTF-8";
@@ -19,7 +19,7 @@
 			String sex = request.getParameter("sex");
 			float weight1 = Float.parseFloat(request.getParameter("w1"));
 			float weight2 = Float.parseFloat(request.getParameter("w2"));
-			String sql = "select * from students_info where sex=? and weight>=? and weight<=?";
+			String sql = "select * from stu_info where sex=? and weight>=? and weight<=?";
 			PreparedStatement pstmt = conn.prepareStatement(sql);
 			pstmt.setString(1, sex);
 			pstmt.setFloat(2, weight1);

@@ -6,12 +6,13 @@
 <body>
 	<center>
 		<%
+			request.setCharacterEncoding("UTF-8");
 			//使用PreparedStudio对象实现数据库查询，其步骤如下：
 			//（1）建立数据库的连接
 			String driverName = "com.mysql.jdbc.Driver";
 			String userName = "root";
 			String userPwd = "root";
-			String dbName = "student";
+			String dbName = "students";
 			String url1 = "jdbc:mysql://localhost:3306/" + dbName;
 			String url2 = "?user=" + userName + "&password=" + userPwd;
 			String url3 = "&useUnicode=true&characterEncoding=UTF-8";
@@ -19,7 +20,7 @@
 			Class.forName(driverName);
 			Connection conn = DriverManager.getConnection(url);
 			//（2）形成查询SQL语句
-			String sql = "select * from students_info";
+			String sql = "select * from stu_info";
 			//（3）利用数据库连接对象建立PreparedStatement对象
 			PreparedStatement pstmt = conn.prepareStatement(sql);
 			//调用PreparedStatement的对象的executeQuery（）方法，并返回ResultSet对象

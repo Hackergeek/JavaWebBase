@@ -9,7 +9,7 @@
 			String driverName = "com.mysql.jdbc.Driver";
 			String userName = "root";
 			String userPwd = "root";
-			String dbName = "student";
+			String dbName = "students";
 			String url1 = "jdbc:mysql://localhost:3306/" + dbName;
 			String url2 = "?user=" + userName + "&password=" + userPwd;
 			String url3 = "&useUnicode=true&characterEncoding=UTF-8";
@@ -18,7 +18,7 @@
 			Connection conn = DriverManager.getConnection(url);
 			
 			//（2）形成插入SQL语句（带参数）
-			String sql = "Insert into students_info(id,name,sex,age,weight,hight)values(?,?,?,?,?,?)";
+			String sql = "Insert into stu_info(id,name,sex,age,weight,hight)values(?,?,?,?,?,?)";
 			//不带参数的插入SQL语句
 			//String sql = "Insert into students_info(id,name,sex,age,weight,hight)values(16,'张三','男',20,70,175)"
 			//（3）利用数据库连接对象建立PreparedStatement对象
