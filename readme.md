@@ -36,7 +36,10 @@
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/readme.md">使用说明</a>
 ###以下内容暂未完成
 ##第5章JavaBean技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/">例5-3 网页计数器JavaBean的设计与使用</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/sum/src/beans/Circle.java">例5-1 设计一个圆的JavaBean类</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/sum/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/counter/">例5-3 网页计数器JavaBean的设计与使用</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例5-4 数据库访问JavaBean的设计</a>
 ##第6章Servlet技术
 
 ##第7章Java Web常用开发模式与案例
