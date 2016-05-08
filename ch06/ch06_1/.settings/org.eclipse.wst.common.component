@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="yhdlyz">
+    <wb-module deploy-name="ch06_1">
         <wb-resource deploy-path="/" source-path="/WebRoot" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="yhdlyz"/>
-        <property name="java-output-path" value="/yhdlyz/WebRoot/WEB-INF/classes"/>
+        <property name="java-output-path" value="/ch06_1/WebRoot/WEB-INF/classes"/>
+        <property name="context-root" value="ch06_1"/>
     </wb-module>
 </project-modules>
