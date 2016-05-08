@@ -35,23 +35,40 @@
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/student">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/readme.md">使用说明</a>
 ##第5章JavaBean技术
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/sum/src/beans/Circle.java">例5-1 设计一个圆的JavaBean类</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/sum/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/counter/">例5-3 网页计数器JavaBean的设计与使用</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例5-4 数据库访问JavaBean的设计</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/src/beans/Circle.java">例5-1 设计一个圆的JavaBean类</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_3/">例5-3 网页计数器JavaBean的设计与使用</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_4">例5-4 数据库访问JavaBean的设计</a>
 ##第6章Servlet技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/yhdlyz/">例6-1 基于JSP+Servlet的用户登录验证</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/complex/">例6-2 基于JSP+Servlet+JavaBean实现复数运算</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/autoLogin/">例6-3 利用Cookie实现自动登录</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_1/">例6-1 基于JSP+Servlet的用户登录验证</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_2/">例6-2 基于JSP+Servlet+JavaBean实现复数运算</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_3/">例6-3 利用Cookie实现自动登录</a>
 #以下内容暂未完成
 ##第7章Java Web常用开发模式与案例
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch07_1_2/">例7-1 JSP页面开发模式案例——求1+2+3+...+100的和值</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch07_1_2/">例7-2 JSP页面开发模式案例——求任意两个整数之间的累加和值</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-3 JSP+JDBC开发模式案例——实现基于数据库的登录验证</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-4 JSP+JavaBean开发案例——求和运算</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-5 JSP+JavaBean+JDBC案例——基于数据库的登录验证</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-6 JSP+Servlet开发案例——求和运算</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-7 JSP+Servlet+JDBC开发案例——基于数据库的登录验证</a>
+###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-8 JSP+Servlet+JavaBean开发案例——求和运算</a>
+###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
+###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
+###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
+##第8章EL、JSTL和Ajax技术
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-1 JSP页面开发模式案例——求和运算</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-2 JSP页面开发模式案例——求和运算</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-3 利用Cookie实现自动登录</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-3 利用Cookie实现自动登录</a>
-###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-3 利用Cookie实现自动登录</a>
-###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例6-3 利用Cookie实现自动登录</a>
-##第8章EL、JSTL和Ajax技术
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-3 JSP+JDBC开发模式案例——实现基于数据库的登录验证</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-4 JSP+JavaBean开发案例——求和运算</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-5 JSP+JavaBean+JDBC案例——基于数据库的登录验证</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-6 JSP+Servlet开发案例——求和运算</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-7 JSP+Servlet+JDBC开发案例——基于数据库的登录验证</a>
+###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-8 JSP+Servlet+JavaBean开发案例——求和运算</a>
+###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
+###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
+###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
+###12、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
 ##第9章过滤器和监听器技术
 ##第10章Java Web实用开发技术
 ##第11章Struts2框架技术
