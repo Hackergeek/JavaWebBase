@@ -43,15 +43,15 @@
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_1/">例6-1 基于JSP+Servlet的用户登录验证</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_2/">例6-2 基于JSP+Servlet+JavaBean实现复数运算</a>
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch06/ch06_3/">例6-3 利用Cookie实现自动登录</a>
-#以下内容暂未完成
 ##第7章Java Web常用开发模式与案例
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch07_1_2/">例7-1 JSP页面开发模式案例——求1+2+3+...+100的和值</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch07_1_2/">例7-2 JSP页面开发模式案例——求任意两个整数之间的累加和值</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-3 JSP+JDBC开发模式案例——实现基于数据库的登录验证</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-4 JSP+JavaBean开发案例——求和运算</a>
-###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-5 JSP+JavaBean+JDBC案例——基于数据库的登录验证</a>
-###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-6 JSP+Servlet开发案例——求和运算</a>
-###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-7 JSP+Servlet+JDBC开发案例——基于数据库的登录验证</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_1_2/WebRoot/ch07_1.jsp">例7-1 JSP页面开发模式案例——求1+2+3+...+100的和值</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_1_2/">例7-2 JSP页面开发模式案例——求任意两个整数之间的累加和值</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_3">例7-3 JSP+JDBC开发模式案例——实现基于数据库的登录验证</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_4">例7-4 JSP+JavaBean开发案例——求和运算</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_5">例7-5 JSP+JavaBean+JDBC案例——基于数据库的登录验证</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_6">例7-6 JSP+Servlet开发案例——求和运算</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_7">例7-7 JSP+Servlet+JDBC开发案例——基于数据库的登录验证</a>
+#以下内容暂未完成
 ###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-8 JSP+Servlet+JavaBean开发案例——求和运算</a>
 ###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
