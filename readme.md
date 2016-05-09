@@ -51,11 +51,11 @@
 ###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_5">例7-5 JSP+JavaBean+JDBC案例——基于数据库的登录验证</a>
 ###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_6">例7-6 JSP+Servlet开发案例——求和运算</a>
 ###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_7">例7-7 JSP+Servlet+JDBC开发案例——基于数据库的登录验证</a>
-#以下内容暂未完成
 ###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_8">例7-8 JSP+Servlet+JavaBean开发案例——求和运算</a>
 ###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_9">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_10">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
+#以下内容暂未完成
 ##第8章EL、JSTL和Ajax技术
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-1 JSP页面开发模式案例——求和运算</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ADWJB">例7-2 JSP页面开发模式案例——求和运算</a>
