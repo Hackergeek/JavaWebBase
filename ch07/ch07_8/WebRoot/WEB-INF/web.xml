@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <servlet>
+    <servlet-name>Servlet_yunsuan</servlet-name>
+    <servlet-class>ch07_8.Servlet_yunsuan</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Servlet_yunsuan</servlet-name>
+    <url-pattern>/Servlet_yunsuan</url-pattern>
+  </servlet-mapping>
+</web-app>
