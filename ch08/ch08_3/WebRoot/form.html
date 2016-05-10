@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>提交信息页面</title>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+  </head>
+  <body>
+  	<form action="doSubmit.jsp" method="post">
+  		姓名<input type="text" name="name"><br/>
+  		性别<input type="text" name="sex"><br/>
+  		语言<input type="text" name="lang"><br/>
+  		电话<input type="text" name="regTelephone"><br/>
+  		邮件<input type="text" name="email"><br/>
+  		简介<textarea rows="2" cols="30" name="intro"></textarea><br/><br/>
+  		爱好：音乐<input type="checkbox" name="hobby" value="音乐"/>
+  			篮球<input type="checkbox" name="hobby" value="篮球"/>
+  			足球<input type="checkbox" name="hobby" value="足球"/><br/><br/>
+  		<input type="submit" value="提交"/>&nbsp;<input type="reset" value="重置">
+  	</form>
+  </body>
+</html>
