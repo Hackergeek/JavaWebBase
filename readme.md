@@ -56,42 +56,43 @@
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_10">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
 ##第8章EL、JSTL和Ajax技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_1_2/WebRoot/arithmetic.jsp">例8-1 EL表达式语言运算</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_1_2/WebRoot/collections.jsp">例8-2 EL表达式访问集合中的元素</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_3">例8-3 EL对表单数据的访问</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_4">例8-4 EL对作用域属性的访问</a>
-###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_5">例8-5 EL对Web工程初始参数的访问</a>
-###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_6">例8-6 EL对JavaBean的访问</a>
-###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_7_8/WebRoot/if.jsp">例8-7 JSTL中单分支标签和多分支标签的使用</a>
-###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_7_8/WebRoot/forEach.jsp">例8-8 JSTL中循环标签的使用</a>
-###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_9">例8-9 使用EL和JSTL显示查询结果</a>
-###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_10">例8-10 Ajax应用案例——异步表单验证</a>
-###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_11">例8-11 Ajax应用案例——实现级联列表</a>
-###12、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08_12">例8-12 Ajax应用案例——输入提示和自动完成</a>
+
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_1_2/WebRoot/arithmetic.jsp">例8-1 EL表达式语言运算</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_1_2/WebRoot/collections.jsp">例8-2 EL表达式访问集合中的元素</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_3">例8-3 EL对表单数据的访问</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_4">例8-4 EL对作用域属性的访问</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_5">例8-5 EL对Web工程初始参数的访问</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_6">例8-6 EL对JavaBean的访问</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_7_8/WebRoot/if.jsp">例8-7 JSTL中单分支标签和多分支标签的使用</a>
+###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_7_8/WebRoot/forEach.jsp">例8-8 JSTL中循环标签的使用</a>
+###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_9">例8-9 使用EL和JSTL显示查询结果</a>
+###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_10">例8-10 Ajax应用案例——异步表单验证</a>
+###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_11">例8-11 Ajax应用案例——实现级联列表</a>
+###12、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_12">例8-12 Ajax应用案例——输入提示和自动完成</a>
 #以下内容暂未完成
 ##第9章过滤器和监听器技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09_1">例9-1 基于过滤器的用户权限控制</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09_2">例9-2 基于过滤器的中文乱码解决</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09_3">例9-3 禁止未授权的IP访问站点过滤器</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09_4">例9-4 会话计数监听器的设计</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_1">例9-1 基于过滤器的用户权限控制</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_2">例9-2 基于过滤器的中文乱码解决</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_3">例9-3 禁止未授权的IP访问站点过滤器</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_4">例9-4 会话计数监听器的设计</a>
 ##第10章Java Web实用开发技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10_1">例10-1 带图形验证码的登录模块</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10_2">例10-2 使用CKEditor编辑公告内容</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10_3">例10-3 使用Cos组件实现作业上传</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10_4">例10-4 使用JavaMail实现邮件发送</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10/ch10_1">例10-1 带图形验证码的登录模块</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10/ch10_2">例10-2 使用CKEditor编辑公告内容</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10/ch10_3">例10-3 使用Cos组件实现作业上传</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch10/ch10_4">例10-4 使用JavaMail实现邮件发送</a>
 ##第11章Struts2框架技术
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_1">例11-1 Struts2——任意两数据的代数和</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_2">例11-2 Struts2——Action访问Web对象</a>
-###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_3">例11-3 Struts2——多方法的Action</a>
-###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_4">例11-4 Struts2——非表单标签</a>
-###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_5">例11-5 Struts2——实现国际化</a>
-###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_6">例11-6 Struts2的国际化应用案例——适应于中英文的登录系统</a>
-###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_7">例11-7 Struts2——文字过滤器的设计与应用</a>
-###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_8">例11-8 Struts2——实现客户注册输入验证</a>
-###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11_9">例11-9 Struts2——使用配置验证文件实现客户注册输入验证</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_1">例11-1 Struts2——任意两数据的代数和</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_2">例11-2 Struts2——Action访问Web对象</a>
+###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_3">例11-3 Struts2——多方法的Action</a>
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_4">例11-4 Struts2——非表单标签</a>
+###5、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_5">例11-5 Struts2——实现国际化</a>
+###6、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_6">例11-6 Struts2的国际化应用案例——适应于中英文的登录系统</a>
+###7、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_7">例11-7 Struts2——文字过滤器的设计与应用</a>
+###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_8">例11-8 Struts2——实现客户注册输入验证</a>
+###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_9">例11-9 Struts2——使用配置验证文件实现客户注册输入验证</a>
 ##第12章Hibernate持久化技术 
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch012_1">例12-1 Hibernate——实现用户信息的注册</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch012_2">例12-2 基于Struts2+Hibernate的学生信息管理系统</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch012_1">例12-1 Hibernate——实现用户信息的注册</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch012_2">例12-2 基于Struts2+Hibernate的学生信息管理系统</a>
 
 ##实验
 ###1、
@@ -102,8 +103,7 @@
 ###3、
 ###<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
 ###<a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_8.html">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
-###4、
-
+###4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
 ###5、
 
 ##习题
