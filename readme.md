@@ -55,6 +55,7 @@
 ###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_9">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_10">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
+#以下内容暂未完成
 ##第8章EL、JSTL和Ajax技术
 
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_1_2/WebRoot/arithmetic.jsp">例8-1 EL表达式语言运算</a>
@@ -69,7 +70,7 @@
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_10">例8-10 Ajax应用案例——异步表单验证</a>
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_11">例8-11 Ajax应用案例——实现级联列表</a>
 ###12、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_12">例8-12 Ajax应用案例——输入提示和自动完成</a>
-#以下内容暂未完成
+
 ##第9章过滤器和监听器技术
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_1">例9-1 基于过滤器的用户权限控制</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch09/ch09_2">例9-2 基于过滤器的中文乱码解决</a>

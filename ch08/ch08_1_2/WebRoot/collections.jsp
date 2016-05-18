@@ -21,9 +21,9 @@
     %>
     	<h2>EL访问集合</h2>
     	<ul>
-    		<li>${last[0]}${first[0]}${role["volunteer"]}</li>
-    		<li>${last[1]}${first[1]}${role["athlete"]}</li>
-    		<li>${last[2]}${first[2]}${role["missionary"]}</li>
+    		<li>${last[0]}${first[0]}:${role["volunteer"]}</li>
+    		<li>${last[1]}${first[1]}:${role["athlete"]}</li>
+    		<li>${last[2]}${first[2]}:${role["missionary"]}</li>
     	</ul>
   </body>
 </html>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+	
+	<servlet>
+		<servlet-name>ChangeCheckCodeServlet</servlet-name>
+		<servlet-class>servlet.ChangeCheckCodeServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>CheckCodeServlet</servlet-name>
+		<servlet-class>servlet.CheckCodeServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>LoginCheckServlet</servlet-name>
+		<servlet-class>servlet.LoginCheckServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>LoginCheckServlet</servlet-name>
+		<url-pattern>/logincheck</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>CheckCodeServlet</servlet-name>
+		<url-pattern>/checkcode</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ChangeCheckCodeServlet</servlet-name>
+		<url-pattern>/changecheckcode</url-pattern>
+	</servlet-mapping>
+
+
+</web-app>

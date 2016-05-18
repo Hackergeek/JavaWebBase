@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+	<filter>
+		<filter-name>loginfilter</filter-name>
+		<filter-class>filter.LoginFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>loginfilter</filter-name>
+		<url-pattern>/welcome.jsp</url-pattern>
+	</filter-mapping>
+  <servlet>
+    <servlet-name>ProcessLoginServlet</servlet-name>
+    <servlet-class>servlet.ProcessLoginServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ProcessLoginServlet</servlet-name>
+    <url-pattern>/ProcessLoginServlet</url-pattern>
+  </servlet-mapping>
+</web-app>
