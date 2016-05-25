@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="default" namespace="/" extends="struts-default">
+		<action name="add" class="action.Action" method="add">
+			<result name="show">/show.jsp</result>
+		</action>
+		<action name="sub" class="action.Action" method="sub">
+			<result name="show">/show.jsp</result>
+		</action>
+		<action name="div" class="action.Action" method="div">
+			<result name="show">/show.jsp</result>
+		</action>
+		<action name="mul" class="action.Action" method="mul">
+			<result name="show">/show.jsp</result>
+		</action>
+
+	</package>
+
+</struts>

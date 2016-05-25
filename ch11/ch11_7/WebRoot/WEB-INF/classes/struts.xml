@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+    <package name="default" namespace="/" extends="struts-default">
+    	<interceptors>
+    		<!-- 文件过滤拦截器配置，replace是拦截器的名字 -->
+    		<interceptor name="replace" class="interceptor.MyInterceptor"/>
+    	</interceptors>
+    	<action name="public" class="action.PublicAction">
+    		<result name="success">/success.jsp</result>
+    		<!-- 使用自定义拦截器 -->
+    		<interceptor-ref name="replace"/>
+    		<!-- 使用系统默认拦截器 -->
+    		<interceptor-ref name="defaultStack"/>
+    	</action>
+    </package>
+
+</struts>

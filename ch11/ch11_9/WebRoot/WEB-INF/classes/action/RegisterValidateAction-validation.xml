@@ -1,0 +1,45 @@
+<!DOCTYPE validators PUBLIC
+        "-//Apache Struts//XWork Validator 1.0.2//EN"
+        "http://struts.apache.org/dtds/xwork-validator-1.0.2.dtd">
+
+<validators>
+    <field name="user.userName">
+        <field-validator type="requiredstring">
+        	<param name="trim">true</param>
+        	<message>用户名不能为空！</message>
+        </field-validator>
+        <field-validator type="regex">
+        	<param name="regex"><![CDATA[^[a-z][A-Z]\w*$]]></param>
+        	<message>用户格式不正确！</message>
+        </field-validator>
+    </field>
+    <field name="user.userPwd">
+        <field-validator type="requiredstring">
+        	<param name="trim">true</param>
+        	<message>密码不能为空！</message>
+        </field-validator>
+        <field-validator type="stringlength">
+        	<param name="minLength">6</param>
+        	<message>密码长度不能小于6！</message>
+        </field-validator>
+    </field>
+    <field name="userPwd">
+    	<field-validator type="requiredstring" short-circuit="true">
+    		<message>确认密码不能为空！</message>
+    	</field-validator>
+    	<field-validator type="fieldexpression">
+    		<param name="expression"><![CDATA[userPwd==user.userPwd]]></param>
+    		<message>密码不一致！</message>
+    	</field-validator>
+    </field>
+    <field name="user.userEmail">
+    	<field-validator type="requiredstring">
+    		<param name="trim">true</param>
+        	<message>邮件地址不能为空！</message>
+    	</field-validator>
+    	<field-validator type="regex">
+        	<param name="regex"><![CDATA[\w+([-+.']\w+)*@\w+([-.]\w+)*.\w+([-.]\w+)*]]></param>
+        	<message>邮箱地址格式不正确！</message>
+        </field-validator>
+    </field>
+</validators>

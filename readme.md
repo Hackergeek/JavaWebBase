@@ -55,9 +55,7 @@
 ###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_9">例7-9 JSP+Servlet+JavaBean案例——基于数据库的登录验证</a>
 ###10、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_10">例7-10 JSP+Servlet+JavaBean案例——学生体质信息管理系统</a>
 ###11、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">例7-11 JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
-#以下内容暂未完成
 ##第8章EL、JSTL和Ajax技术
-
 ###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_1_2/WebRoot/arithmetic.jsp">例8-1 EL表达式语言运算</a>
 ###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_1_2/WebRoot/collections.jsp">例8-2 EL表达式访问集合中的元素</a>
 ###3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch08/ch08_3">例8-3 EL对表单数据的访问</a>
@@ -111,4 +109,5 @@
 ###
 ##附录
 ###1、MySql的安装与配置
-###2、
+###2、相关jar包——Struts2，Hibernate，junit4，Mysql
+###3、connections.ncx——数据库文件
