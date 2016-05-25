@@ -90,8 +90,8 @@
 ###8、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_8">例11-8 Struts2——实现客户注册输入验证</a>
 ###9、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch11/ch11_9">例11-9 Struts2——使用配置验证文件实现客户注册输入验证</a>
 ##第12章Hibernate持久化技术 
-###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch012_1">例12-1 Hibernate——实现用户信息的注册</a>
-###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch012_2">例12-2 基于Struts2+Hibernate的学生信息管理系统</a>
+###1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch12_1">例12-1 Hibernate——实现用户信息的注册</a>
+###2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch12/ch12_2">例12-2 基于Struts2+Hibernate的学生信息管理系统</a>
 
 ##实验
 ###1、
