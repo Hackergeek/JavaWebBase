@@ -111,14 +111,3 @@
 ###1、MySql的安装与配置
 ###2、相关jar包——Struts2，Hibernate，junit4，Mysql
 ###3、connections.ncx——数据库文件
-### 流程图
-```flow
-st=>start: Start
-e=>end
-op=>operation: My Operation
-cond=>condition: Yes or No?
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
