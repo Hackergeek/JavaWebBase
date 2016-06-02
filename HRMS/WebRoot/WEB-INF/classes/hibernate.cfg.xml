@@ -1,0 +1,26 @@
+<!-- ~ Hibernate, Relational Persistence for Idiomatic Java ~ ~ License: 
+	GNU Lesser General Public License (LGPL), version 2.1 or later. ~ See the 
+	lgpl.txt file in the root directory or <http://www.gnu.org/licenses/lgpl-2.1.html>. -->
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<property name="connection.username">root</property>
+		<property name="connection.password">root</property>
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql:///hrms?useUnicode=true&amp;characterEncoding=UTF-8</property>
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="show_sql">true</property>
+		<property name="format_sql">true</property>
+		<property name="hbm2ddl.auto">update</property>
+		<property name="hibernate.current_session_context_class">thread</property>
+		
+		<mapping resource="entity/Contract.hbm.xml"/>
+		<mapping resource="entity/Employ.hbm.xml"/>
+		<mapping resource="entity/Staff.hbm.xml"/>
+		<mapping resource="entity/Train.hbm.xml"/>
+		<mapping resource="entity/User.hbm.xml"/>
+	</session-factory>
+</hibernate-configuration>

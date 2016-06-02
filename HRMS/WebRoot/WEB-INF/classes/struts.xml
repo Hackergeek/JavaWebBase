@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+	<package name="default" namespace="/" extends="struts-default">
+	</package>
+
+	<package name="user" namespace="/user" extends="default">
+		<!-- Action配置 -->
+		<!-- name属性：指定客户端发送请求的地址映射名称，必选项 class属性：指定Action对应的实现类，默认值为ActionSupport类 
+			method属性：指定Action类中处理方法名，默认值为Action中execute方法 converter属性：指定Action类型转换器的完整类名，可选项 -->
+		<action name="*_*" class="action.{1}Action" method="{2}">
+			<!-- 结果配置 -->
+			<!-- name属性：指定Action返回的逻辑视图，默认值为"success" type属性：指定结果类型定向到其他文件，可以是JSP文件或者Action类，默认值为JSP页面程序 
+				结果配置格式： <result name="resultName" type="resultType">跳转的目的地</result> -->
+			<result name="login_success">/user/User_login_success.jsp</result>
+			<result name="login_failure">/user/User_login.jsp</result>
+			<result name="logout_success">/user/User_login.jsp</result>
+			<result name="input">/user/User_login.jsp</result>
+		</action>
+	</package>
+	<package name="employ" namespace="/employ" extends="default">
+		<action name="*_*" class="action.{1}Action" method="{2}">
+			<result name="Employ_query_success">/employ/Employ_query_success.jsp</result>
+			<result name="Employ_delete_success" type="chain">Employ_query</result>
+			<result name="Employ_add_success">/employ/Employ_add_success.jsp</result>
+			<result name="Employ_modify_success">/employ/Employ_modify.jsp</result>
+			<result name="Employ_save_success">/employ/Employ_modify_success.jsp</result>
+		</action>
+	</package>
+	<package name="train" namespace="/train" extends="default">
+		<action name="*_*" class="action.{1}Action" method="{2}">
+			<result name="Train_query_success">/train/Train_query_success.jsp</result>
+			<result name="Train_delete_success" type="chain">Train_query</result>
+			<result name="Train_add_success">/train/Train_add_success.jsp</result>
+			<result name="Train_modify_success">/train/Train_modify.jsp</result>
+			<result name="Train_save_success">/train/Train_modify_success.jsp</result>
+		</action>
+	</package>
+	<package name="contract" namespace="/contract" extends="default">
+		<action name="*_*" class="action.{1}Action" method="{2}">
+			<result name="Contract_query_success">/contract/Contract_query_success.jsp</result>
+			<result name="Contract_delete_success" type="chain">Contract_query</result>
+			<result name="Contract_add_success">/contract/Contract_add_success.jsp</result>
+			<result name="Contract_modify_success">/contract/Contract_modify.jsp</result>
+			<result name="Contract_save_success">/contract/Contract_modify_success.jsp</result>
+		</action>
+	</package>
+</struts>
