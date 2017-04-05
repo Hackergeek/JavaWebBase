@@ -35,8 +35,8 @@
 ### 2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/student">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
 ### 3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch04/readme.md">使用说明</a>
 ## 第5章JavaBean技术
-### 3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/src/beans/Circle.java">例5-1 设计一个圆的JavaBean类</a>
-### 3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
+### 1、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/src/beans/Circle.java">例5-1 设计一个圆的JavaBean类</a>
+### 2、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_1_2/">例5-2 基于JavaBean+JSP求任意两数代数和</a>
 ### 3、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_3/">例5-3 网页计数器JavaBean的设计与使用</a>
 ### 4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch05/ch05_4">例5-4 数据库访问JavaBean的设计</a>
 ## 第6章Servlet技术
@@ -102,12 +102,12 @@
 ### 3、
 ### <a href="https://github.com/Hackergeek/JavaWebBase/tree/master/student_jdbc">学生身体体质信息管理系统（通过JDBC驱动程序直接连接数据库）</a>
 ### <a href="https://github.com/Hackergeek/JavaWebBase/blob/master/ch02/ch02_8.html">学生身体体质信息管理系统（通过连接池技术连接数据库）</a>
-### 4、<a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
-### 5、
+### 4、
+### <a href="https://github.com/Hackergeek/JavaWebBase/tree/master/ch07/ch07_11">JSP+Servlet+JavaBean+DAO案例——学生体质信息管理系统</a>
 
 ## 习题
 ###
 ## 附录
-###1、MySql的安装与配置
-###2、相关jar包——Struts2，Hibernate，junit4，Mysql
-###3、connections.ncx——数据库文件
+### 1、MySql的安装与配置
+### 2、相关jar包——Struts2，Hibernate，junit4，Mysql
+### 3、connections.ncx——数据库文件
